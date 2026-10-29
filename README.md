@@ -1,10 +1,8 @@
 # AI Sprint
 
-**Your First AI Project Starts Here.** — a growth prototype for the NxtWave Growth Intern Round 1 Challenge.
+
 
 Goal being simulated: 500 final-year engineering students register for the free online workshop *Build Your First AI Project in 60 Minutes* within 7 days, with ₹2,000.
-
-> **Prototype / demo.** Not an official NxtWave product. Registrations are stored only in your browser's LocalStorage, are never sent anywhere, and are not a shared database. Campaign numbers are planning assumptions or clearly labelled synthetic data.
 
 ## Features
 
