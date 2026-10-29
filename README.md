@@ -72,4 +72,4 @@ After deploying, open the URL in an incognito window and test a `?ref=` link. (N
 
 ## Submission materials
 
-See [`/submission`](./submission): growth plan, three experiments, AI worklog (draft — replace with real notes), video script, checklist.
+See [`/submission`](./submission): growth plan, three experiments, AI worklog.
